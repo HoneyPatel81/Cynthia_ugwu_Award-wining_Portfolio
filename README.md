@@ -3,6 +3,7 @@
  🖇 Technologies: Morden web development (HTML, CSS , JAVASCRIPT , LOCOMOTIVE JS , GSAP)🎨🚀
  
  ** Interactive features ** :
+ 
 ✓ Dynamic animation : dynamic animations is to add motion and timing to your elements, making them move and change in relation to each other and to the viewer.  
 
 ✓ Locomotive JS: Locomotive JS is used to create smooth scrolling effects, enhancing the user experience and navigation. 
@@ -11,7 +12,7 @@
 
 ✓ Responsive Design: The website is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
--------------------------------------------FINAL RESULT OF WEBSITE------------------------------------------------------------------------------------
+-------------------------------------------FINAL RESULT OF WEBSITE------------------------------------------------------------
 
 ![result-1](https://github.com/HoneyPatel81/Cynthia_ugwu_Award-wining_Portfolio/assets/119737940/a9328c78-30a2-43a6-ae2b-d9678fdb17f9)
 
