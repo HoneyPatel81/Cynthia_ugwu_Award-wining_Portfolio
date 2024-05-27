@@ -1,8 +1,10 @@
-🖇 Project Overview: This project is a clone of the award-winning personal portfolio website of Cynthia Ugwu, a talented product designer.The website focusing on simplicity and elegance.Portfolio website of Cynthia Ugwu aiming to highlight the designer's work and achievements in a clean and elegant manner. 
+🖇 PROJECT OVERVIEW:
+This project is a clone of the award-winning personal portfolio website of Cynthia Ugwu, a talented product designer.The website focusing on simplicity and elegance.Portfolio website of Cynthia Ugwu aiming to highlight the designer's work and achievements in a clean and elegant manner. 
 
- 🖇 Technologies: Morden web development (HTML, CSS , JAVASCRIPT , LOCOMOTIVE JS , GSAP)🎨🚀
+ 🖇 TECHNOLOGIES:
+ Morden web development (HTML, CSS , JAVASCRIPT , LOCOMOTIVE JS , GSAP)🎨🚀
  
- ** Interactive features ** :
+ ** INTERACTIVE FEATURES ** :
  
 ✓ Dynamic animation : dynamic animations is to add motion and timing to your elements, making them move and change in relation to each other and to the viewer.  
 
